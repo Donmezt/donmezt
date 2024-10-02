@@ -1,4 +1,5 @@
 #Hello, World 👋
-**Hello world**
-*Hello World*
-#My Pet Cat
+Hobbies:
+-Weight lifting
+-Working on my project car
+-Video games
